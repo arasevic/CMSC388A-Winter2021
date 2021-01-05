@@ -220,7 +220,7 @@ sure is not a public site. Your course repo is not a public site.
 <p>
  We will be using Piazza for class
  communication. You are able to register yourself by visiting
- the following url: <a href="piazza.com/umd/spring2021/cmsc388a">Piazza Signup</a>.
+ the following url: <a href="https://piazza.com/umd/spring2021/cmsc388a">Piazza Signup</a>.
 </p>
 
 
